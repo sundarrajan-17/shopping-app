@@ -1,0 +1,35 @@
+.card{
+    max-width: 320px;
+    margin: 25px;
+}
+img{
+    width: 280px;
+    height: 350px;
+}
+.cartitem{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cart-btn{
+    width: 30px;
+    height: 30px;
+}
+span{
+    padding: 4px;
+}
+.buynow-btn{
+    background-color: rgb(88, 71, 71);
+    color:aliceblue;
+    border: none;
+    border-radius: 20px;
+    width: 160px;
+    font-size: 28px;
+    font-weight: 600;
+}
+.cart-header{
+    margin: 10px;
+}
+.buynow-btn:hover{
+    background-color: white;
+    color: rgb(88, 71, 71);
+}

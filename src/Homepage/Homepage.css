@@ -1,0 +1,27 @@
+.card{
+    max-width: 320px;
+    margin: 25px;
+}
+img{
+    width: 280px;
+    height: 350px;
+}
+.filters{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.filters h2{
+    margin-left: 55px;
+}
+.btn{
+    width: 300px;
+    padding: 15px;
+    background-color: rgb(88, 71, 71);
+    border: none;
+    color: aliceblue;
+    size: 50px;
+    cursor: pointer;
+    font-size: 30px;
+}

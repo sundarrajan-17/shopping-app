@@ -1,0 +1,23 @@
+.Header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgb(88, 71, 71);
+    color: aliceblue;
+}
+.Header input{
+    width: 400px;
+    padding: 10px;
+    font-size: 20px;
+    border: 2px solid red;
+    padding-left: 40px;
+}
+.headerbtn{
+    background-color: rgb(88, 71, 71);
+    border: none;
+    color: aliceblue;
+    size: 50px;
+    cursor: pointer;
+    font-size: 40px;
+}
